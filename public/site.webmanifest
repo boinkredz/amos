@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "AMOS Security Management",
+  "short_name": "AMOS",
+  "description": "AMOS – Asro Manajemen Operasional Security",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#CC1111",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://hercules-cdn.com/file_KYiHm4LDHkw9WTobwVOoMS4m",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://hercules-cdn.com/file_KYiHm4LDHkw9WTobwVOoMS4m",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://hercules-cdn.com/file_KYiHm4LDHkw9WTobwVOoMS4m",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://hercules-cdn.com/file_KYiHm4LDHkw9WTobwVOoMS4m",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
